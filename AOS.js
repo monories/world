@@ -25,5 +25,3 @@ window.addEventListener('load',function(evnet){
 
 // You can also pass an optional settings object
 // below listed default settings
-
-// 수정테스트
